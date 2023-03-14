@@ -1,0 +1,9 @@
+.bsp/
+.idea/
+.vscode/
+.devcontainer/
+.metals/
+target/
+build/
+test_run_dir/
+*.vcd
